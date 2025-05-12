@@ -70,8 +70,10 @@ Smart-Navigation-For-EV-main/
 
 ## 💡 Algorithms Used
 
-Haversine Formula
+**Haversine Formula**
+
 Used to calculate the distance between two latitude/longitude points to find the closest charging stations.
 
-Reverse Geocoding
+**Reverse Geocoding**
+
 Translates GPS coordinates into human-readable locations for better user experience.
